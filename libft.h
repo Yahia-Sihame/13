@@ -6,7 +6,7 @@
 /*   By: ysihame <ysihame@student.1337.ma>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/13 11:12:09 by ysihame           #+#    #+#             */
-/*   Updated: 2026/10/16 18:56:28 by ysihame          ###   ########.fr       */
+/*   Updated: 2026/10/17 21:53:20 by ysihame          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 
 # include <stdlib.h>
 # include <unistd.h>
+# include <stddef.h>
 
 /* 
 		** Linked List Structure

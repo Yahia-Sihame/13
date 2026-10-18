@@ -6,9 +6,11 @@
 /*   By: ysihame <ysihame@student.1337.ma>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/14 14:48:52 by ysihame           #+#    #+#             */
-/*   Updated: 2026/10/14 16:23:16 by ysihame          ###   ########.fr       */
+/*   Updated: 2026/10/17 21:57:01 by ysihame          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
 
 int	ft_memcmp(const void *s1, const void *s2, size_t n)
 {

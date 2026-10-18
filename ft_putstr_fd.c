@@ -6,9 +6,11 @@
 /*   By: ysihame <ysihame@student.1337.ma>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/16 14:49:52 by ysihame           #+#    #+#             */
-/*   Updated: 2026/10/16 14:51:57 by ysihame          ###   ########.fr       */
+/*   Updated: 2026/10/17 21:58:11 by ysihame          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
 
 void	ft_putstr_fd(char *s, int fd)
 {
